@@ -10,9 +10,9 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Fotosammlung"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "Bunte Mischung"
 # A description/bio of the website.
 bio: "A Jekyll theme for photographers and photo bloggers."
 social:
